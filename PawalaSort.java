@@ -4,7 +4,7 @@ public class PawalaSort {
         pawalaSort(arr);
         System.out.println("Sorted array: " + java.util.Arrays.toString(arr));
     }
-
+                                         //hi sE 
     public static void pawalaSort(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             for (int j = i + 1; j < arr.length; j++) {
@@ -17,3 +17,4 @@ public class PawalaSort {
         }
     }
 }
+
